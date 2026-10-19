@@ -9,27 +9,27 @@ Compartilho por aqui meus estudos e projetos pessoais. Estou aberto a oportunida
 #### Linguagens e backend
 
 <p>
-  <img src="https://img.shields.io/badge/Python-5B16EF?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-5B16EF?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-5B16EF?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Dart-5B16EF?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/C-5B16EF?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/FastAPI-5B16EF?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
 </p>
 
 #### Frontend e interfaces
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-3B24FF?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-3B24FF?style=for-the-badge" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Flutter-3B24FF?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
 </p>
 
 #### Bancos de dados
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-5B16EF?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-5B16EF?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
 </p>
 
 Também uso GitHub e Canva nos meus projetos.
