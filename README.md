@@ -6,12 +6,31 @@ Compartilho por aqui meus estudos e projetos pessoais. Estou aberto a oportunida
 
 ## Tecnologias
 
-| Área | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | <img src="./assets/icons/python.svg" width="22" height="22" alt="" /> Python &nbsp; · &nbsp; <img src="./assets/icons/javascript.svg" width="22" height="22" alt="" /> JavaScript &nbsp; · &nbsp; <img src="./assets/icons/typescript.svg" width="22" height="22" alt="" /> TypeScript &nbsp; · &nbsp; <img src="./assets/icons/dart.svg" width="22" height="22" alt="" /> Dart &nbsp; · &nbsp; <img src="./assets/icons/c.svg" width="22" height="22" alt="" /> C |
-| **Backend** | <img src="./assets/icons/fastapi.svg" width="22" height="22" alt="" /> FastAPI |
-| **Frontend e interfaces** | <img src="./assets/icons/html5.svg" width="22" height="22" alt="" /> HTML5 &nbsp; · &nbsp; <img src="./assets/icons/css3.svg" width="22" height="22" alt="" /> CSS3 &nbsp; · &nbsp; <img src="./assets/icons/flutter.svg" width="22" height="22" alt="" /> Flutter &nbsp; · &nbsp; CustomTkinter |
-| **Bancos de dados** | <img src="./assets/icons/postgresql.svg" width="22" height="22" alt="" /> PostgreSQL &nbsp; · &nbsp; <img src="./assets/icons/sqlite.svg" width="22" height="22" alt="" /> SQLite |
+#### Linguagens e backend
+
+<p>
+  <img src="https://img.shields.io/badge/Python-5B16EF?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-5B16EF?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-5B16EF?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Dart-5B16EF?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/C-5B16EF?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/FastAPI-5B16EF?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+</p>
+
+#### Frontend e interfaces
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-3B24FF?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-3B24FF?style=for-the-badge" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Flutter-3B24FF?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
+</p>
+
+#### Bancos de dados
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-5B16EF?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-5B16EF?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
+</p>
 
 Também uso GitHub e Canva nos meus projetos.
 
