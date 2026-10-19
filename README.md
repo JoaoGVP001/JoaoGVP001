@@ -1,44 +1,30 @@
-<div align="center">
+# João Vargas
 
-<h1>👋 Hello World, I'm João Vargas!</h1>
+Curso Ciência da Computação no Instituto Federal Catarinense (IFC), Campus Concórdia, e sou técnico em Informática para Internet pelo IFC.
 
-<p>Graduando em <strong>Ciência da Computação</strong> no <strong>Instituto Federal Catarinense — Campus Concórdia</strong>.<br>Técnico em <strong>Informática para Internet</strong> pelo IFC.</p>
+Compartilho por aqui meus estudos e projetos pessoais. Estou aberto a oportunidades de trabalho em que possa aprender e colocar meus conhecimentos em prática.
 
-<p>Aprendendo e postando por aqui umas coisas que eu gosto.<br>Se pintar uma oportunidade de trabalho, tô disposto a aprender e seguir firme.</p>
+## Tecnologias
 
-<h2>Tecnologias do dia a dia</h2>
+| Área | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | <img src="./assets/icons/python.svg" width="22" height="22" alt="" /> Python &nbsp; · &nbsp; <img src="./assets/icons/javascript.svg" width="22" height="22" alt="" /> JavaScript &nbsp; · &nbsp; <img src="./assets/icons/typescript.svg" width="22" height="22" alt="" /> TypeScript &nbsp; · &nbsp; <img src="./assets/icons/dart.svg" width="22" height="22" alt="" /> Dart &nbsp; · &nbsp; <img src="./assets/icons/c.svg" width="22" height="22" alt="" /> C |
+| **Backend** | <img src="./assets/icons/fastapi.svg" width="22" height="22" alt="" /> FastAPI |
+| **Frontend e interfaces** | <img src="./assets/icons/html5.svg" width="22" height="22" alt="" /> HTML5 &nbsp; · &nbsp; <img src="./assets/icons/css3.svg" width="22" height="22" alt="" /> CSS3 &nbsp; · &nbsp; <img src="./assets/icons/flutter.svg" width="22" height="22" alt="" /> Flutter &nbsp; · &nbsp; CustomTkinter |
+| **Bancos de dados** | <img src="./assets/icons/postgresql.svg" width="22" height="22" alt="" /> PostgreSQL &nbsp; · &nbsp; <img src="./assets/icons/sqlite.svg" width="22" height="22" alt="" /> SQLite |
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="C">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
-</p>
+Também uso GitHub e Canva nos meus projetos.
 
-<p>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&amp;logo=canva&amp;logoColor=white" alt="Canva">
-</p>
+## Contato
 
-<br>
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vargas-7ba1b836b/) · [GitHub](https://github.com/JoaoGVP001)
 
-<h2>Meu GitHub em números</h2>
+<details>
+<summary>Estatísticas do GitHub</summary>
 
 <p>
-<img height="175" src="https://github-stats-extended.vercel.app/api?username=JoaoGVP001&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=false&amp;border_color=30363d&amp;locale=pt-br&amp;custom_title=Estat%C3%ADsticas%20do%20Jo%C3%A3o" alt="Estatísticas do GitHub de João Vargas">
-<img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoaoGVP001&amp;custom_title=Linguagens%20mais%20usadas&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;hide_border=false&amp;border_color=30363d&amp;locale=pt-br" alt="Linguagens mais usadas nos meus repositórios">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=JoaoGVP001&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;locale=pt-br&amp;custom_title=Estat%C3%ADsticas%20do%20Jo%C3%A3o" alt="Estatísticas públicas do GitHub de João Vargas" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoaoGVP001&amp;custom_title=Linguagens%20mais%20usadas&amp;layout=compact&amp;langs_count=8&amp;theme=transparent&amp;hide_border=true&amp;locale=pt-br" alt="Distribuição das linguagens nos repositórios públicos" />
 </p>
 
-<h2>Vamos nos conectar?</h2>
-
-<p>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-vargas-7ba1b836b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn de João Vargas"></a>
-<a href="https://github.com/JoaoGVP001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Perfil de João Vargas no GitHub"></a>
-</p>
-
-</div>
-
+</details>
